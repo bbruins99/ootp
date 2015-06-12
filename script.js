@@ -1,7 +1,7 @@
 var sponsor = ['Marathon','Citi','Wells Fargo','Target','MetLife','Coca-Cola','Home Depot','Louisville Slugger','Ford','AT&T','Verizon','Bank of America','Pepsi',"Lowe's",'FedEx','American Airlines','Delta Air Lines','Southwest Airlines','Goodyear','Walgreens','Kroger'
 ,'General Motors','Exxon Mobil','Best Buy','Busch','Chase','Citizens Bank','Comerica','Coors','Globe Life','Great American','Miller','PNC','Progressive','Safeco','Tropicana','BB&T','Huntington','Fifth Third','AutoZone','Prudential']
 
-var title = ['Park','Field','Stadium','Ballpark','Diamond']
+var title = ['Park','Field','Stadium','Ballpark','Diamond','Park','Park','Stadium','Stadium','Park','Field']
 
 var city = ['Baltimore','Boston','New York','Tampa Bay','Toronto','Montreal','Chicago','Cleveland','Detroit','Kansas City','Minnesota','Houston','Anaheim','Los Angeles','Oakland','Seattle','Texas','Dallas','Atlanta','Miami','Florida','Philadelphia','Washington','Cincinnati'
 ,'Milwaukee','Pittsburgh','St. Louis','Arizona','Phoenix','Colorado','Denver','San Diego','San Francisco','Buffalo','Charlotte','Columbus','Durham','Gwinnett','Indianapolis','Lehigh Valley','Louisville','Norfolk','Portland','Rochester','Syracuse','Toledo','Albuquerque','El Paso'
