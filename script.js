@@ -1,5 +1,5 @@
-var sponsor = ['Marathon','Citi','Wells Fargo','Target','MetLife','Coca-Cola','Home Depot','Louisville Slugger','Ford','AT&T','Verizon','Bank of America','Pepsi',"Lowe's",'FedEx','American Airlines','Delta Air Lines','Southwest Airlines','Goodyear','Walgreens','Kroger','General Motors','Exxon Mobil','Best Buy'
-,'Busch','Chase','Citizens Bank','Comerica','Coors','Globe Life','Great American','Miller','PNC','Progressive','Safeco','Tropicana','BB&T','Huntington','Fifth Third','AutoZone','Prudential','']
+var sponsor = ['Marathon','Citi','Wells Fargo','Target','MetLife','Coca-Cola','Home Depot','Louisville Slugger','Ford','AT&T','Verizon','Bank of America','Pepsi',"Lowe's",'FedEx','American Airlines','Delta Air Lines','Southwest Airlines','Goodyear','Walgreens','Kroger'
+,'General Motors','Exxon Mobil','Best Buy','Busch','Chase','Citizens Bank','Comerica','Coors','Globe Life','Great American','Miller','PNC','Progressive','Safeco','Tropicana','BB&T','Huntington','Fifth Third','AutoZone','Prudential']
 
 var title = ['Park','Field','Stadium','Ballpark','Diamond']
 
