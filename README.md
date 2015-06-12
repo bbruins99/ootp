@@ -1,2 +1,2 @@
 # ootp
-Out of the Park Baseball Stuff
+OOTP Generators V0.1
