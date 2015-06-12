@@ -1,11 +1,12 @@
 var sponsor = ['Marathon','Citi','Wells Fargo','Target','MetLife','Coca-Cola','Home Depot','Louisville Slugger','Ford','AT&T','Verizon','Bank of America','Pepsi',"Lowe's",'FedEx','American Airlines','Delta Air Lines','Southwest Airlines','Goodyear','Walgreens','Kroger','General Motors','Exxon Mobil','Best Buy'
-,'Busch','Chase','Citizens Bank','Comerica','Coors','Globe Life','Great American','Miller','PNC','Progressive','Safeco','Tropicana','BB&T','Huntington','Fifth Third','AutoZone']
+,'Busch','Chase','Citizens Bank','Comerica','Coors','Globe Life','Great American','Miller','PNC','Progressive','Safeco','Tropicana','BB&T','Huntington','Fifth Third','AutoZone','Prudential','']
 
 var title = ['Park','Field','Stadium','Ballpark','Diamond']
 
 var city = ['Baltimore','Boston','New York','Tampa Bay','Toronto','Montreal','Chicago','Cleveland','Detroit','Kansas City','Minnesota','Houston','Anaheim','Los Angeles','Oakland','Seattle','Texas','Dallas','Atlanta','Miami','Florida','Philadelphia','Washington','Cincinnati'
 ,'Milwaukee','Pittsburgh','St. Louis','Arizona','Phoenix','Colorado','Denver','San Diego','San Francisco','Buffalo','Charlotte','Columbus','Durham','Gwinnett','Indianapolis','Lehigh Valley','Louisville','Norfolk','Portland','Rochester','Syracuse','Toledo','Albuquerque','El Paso'
-,'Fresno','Iowa','Las Vegas','Memphis','Nashville','New Orleans','Oklahoma City','Omaha','Reno','Round Rock','Sacramento','Salt Lake City','Tacoma','Akron','Jacksonville','Indiana','New Mexico','California','San Jose']
+,'Fresno','Iowa','Las Vegas','Memphis','Nashville','New Orleans','Oklahoma City','Omaha','Reno','Round Rock','Sacramento','Salt Lake City','Tacoma','Akron','Jacksonville','Indiana','New Mexico','California','San Jose','Vancouver','Carolina','New Jersey','Orlando','New England'
+,'Richmond','Brooklyn']
 
 var nickname = ['Orioles','Red Sox','Yankees','Rays','Devil Rays','Blue Jays','White Sox','Indians','Tigers','Royals','Twins','Astros','Angels','Athletics','Mariners','Rangers','Braves','Marlins','Mets','Nationals','Cubs','Reds','Brewers','Pirates'
 ,'Cardinals','Diamondbacks','Rockies','Dodgers','Padres','Giants','Bisons','Bison','Knights','Clippers','Bulls','Bats','Tides','Red Wings','Chiefs','Mud Hens','Isotopes','Grizzlies','Redbirds','Aces','Express','River Cats','Bees','Rainiers','Senators'
@@ -15,7 +16,7 @@ var nickname = ['Orioles','Red Sox','Yankees','Rays','Devil Rays','Blue Jays','W
 ,'Bruins','Capitals','Rebels','Sharks','Bayhawks','Bay Hawks','Rampage','Avalanche','Bucks','Bulldogs','Galaxy','Atoms','Jets','Blue Sox','Eagles','Devils','Bandits','Gold Sox','Danger','Blazers','Aviators','Crusaders','Defenders','Destroyers','Firebirds'
 ,'Gladiators','Conquest','Miners','Jaguars','Outlaws','Patriots','Predators','Raiders','Trojans','Spartans','Saints','Sting','Islanders','Wizards','Scorpions','Brawlers','Stars','Titans','Revolution','Griffins','Owls','Badgers','Rivermen','Swarm','Blizzard'
 ,'Blues','Cowboys','Heros','Fire','Hitmen','Lancers','Night Hawks','Seahawks','Stampede','Wild','Hawks','Lightning','Monarchs','Vikings','Warriors','Wolves','Lakers','Packers','Whalers','Ravens','Moose','Attack','Rams','Octopus','Rockets'
-,'Colts','Acorns','Hurricanes']
+,'Colts','Acorns','Hurricanes','Pilots']
 
 function nameField() {
   var sponsorName = Math.floor(Math.random() * sponsor.length);
