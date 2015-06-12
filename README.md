@@ -1,2 +1,2 @@
 # ootp
-OOTP Generators V0.1
+OOTP Generators V0.2
