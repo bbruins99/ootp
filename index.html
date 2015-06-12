@@ -3,22 +3,29 @@
 
   <head>
     <meta chareset="utf-8">
-    <title>OOTP Field Name Generator</title>
+    <title>OOTP Team and Field Generator</title>
     <script src="script.js"></script>
     <link rel="stylesheet" type="text/css" href="main.css">
+    <link href='http://fonts.googleapis.com/css?family=Roboto:400,700,300,900' rel='stylesheet' type='text/css'>
   </head>
 
   <body>
 
-    <button onclick="nameField()">Generate name for field</button>
-
-    <p id="field"></p>
+    <h1>BBruins99's OOTP Team and Field Name Generators</h1>
 
     <hr/>
 
-    <button onclick="teamName()">Generate Team Name</button>
+    <div id="right">
+      <button onclick="nameField()">Generate Field Name</button>
 
-    <p id="name"></p>
+      <p id="field"></p>
+    </div>
+
+    <div id="left">
+      <button onclick="teamName()">Generate Team Name</button>
+
+      <p id="name"></p>
+    </div>
 
   </body>
 
