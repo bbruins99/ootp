@@ -3,10 +3,17 @@ var sponsor = ['Marathon','Citi','Wells Fargo','Target','MetLife','Coca-Cola','H
 
 var title = ['Park','Field','Stadium','Ballpark','Diamond','Park','Park','Stadium','Stadium','Park','Field']
 
-var city = ['Baltimore','Boston','New York','Tampa Bay','Toronto','Montreal','Chicago','Cleveland','Detroit','Kansas City','Minnesota','Houston','Anaheim','Los Angeles','Oakland','Seattle','Texas','Dallas','Atlanta','Miami','Florida','Philadelphia','Washington','Cincinnati'
-,'Milwaukee','Pittsburgh','St. Louis','Arizona','Phoenix','Colorado','Denver','San Diego','San Francisco','Buffalo','Charlotte','Columbus','Durham','Gwinnett','Indianapolis','Lehigh Valley','Louisville','Norfolk','Portland','Rochester','Syracuse','Toledo','Albuquerque','El Paso'
-,'Fresno','Iowa','Las Vegas','Memphis','Nashville','New Orleans','Oklahoma City','Omaha','Reno','Round Rock','Sacramento','Salt Lake City','Tacoma','Akron','Jacksonville','Indiana','New Mexico','California','San Jose','Vancouver','Carolina','New Jersey','Orlando','New England'
-,'Richmond','Brooklyn']
+var city = ['Baltimore','Baltimore','Baltimore','Baltimore','Boston','Boston','Boston','Boston','Boston','Chicago','Chicago','Chicago','Chicago','Chicago','Chicago','Cleveland','Cleveland','Cleveland','Cleveland','Detroit','Detroit','Detroit','Detroit','Houston'
+,'Houston','Houston','Kansas City','Kansas City','Kansas City','Kansas City','Los Angeles','Los Angeles','Los Angeles','Los Angeles','Los Angles','Los Angeles','Minnesota','Minnesota','Minnesota','New York','New York','New York','New York','New York','New York','Oakland'
+,'Oakland','Oakland','Oakland','Seattle','Seattle','Seattle','Seattle','Seattle','Tampa Bay','Tampa Bay','Tampa Bay','Tampa Bay','Texas','Texas','Texas','Texas','Texas','Toronto','Toronto','Toronto','Toronto','Arizona','Arizona','Arizona','Atlanta','Atlanta','Atlanta'
+,'Atlanta','Cincinnati','Cincinnati','Cincinnati','Cincinnati','Colorado','Colorado','Colorado','Miami','Miami','Miami','Milwaukee','Milwaukee','Milwaukee','Milwaukee','Philadelphia','Philadelphia','Philadelphia','Philadelphia','Pittsburgh','Pittsburgh','Pittsburgh'
+,'Pittsburgh','San Diego','San Diego','San Diego','San Francisco','San Francisco','San Francisco','San Francisco','St. Louis','St. Louis','St. Louis','St. Louis','Washington','Washington','Washington','Washington','Anaheim','Anaheim','Anaheim','San Jose','San Jose'
+,'San Jose','Dallas','Dallas','Dallas','Dallas','Dallas','Nashville','Nashville','Nashville','Buffalo','Buffalo','Buffalo','Florida','Florida','Florida','Florida','Montreal','Montreal','Montreal','Carolina','Carolina','Carolina','Carolina','Columbus','Columbus'
+,'Columbus','Columbus','New Jersey','New Jersey','New Jersey','New Jersey','Phoenix','Phoenix','Phoenix','Phoenix','San Antonio','San Antonio','San Antonio','Austin','Austin','Austin','Jacksonville','Jacksonville','Jacksonville','Jacksonville','Indianapolis','Indianapolis'
+,'Indianapolis','Indianapolis','Charlotte','Charlotte','Charlotte','El Paso','El Paso','El Paso','Denver','Denver','Denver','Denver','Memphis','Memphis','Memphis','Oklahoma City','Oklahoma City','Oklahoma City','Portland','Portland','Portland','Portland','Las Vegas'
+,'Las Vegas','Las Vegas','Louisville','Louisville','Louisville','Albuquerque','Albuquerque','Tucson','Tucson','Fresno','Fresno','Sacramento','Sacramento','Sacramento','Mesa','Mesa','Virginia Beach','Virginia Beach','Omaha','Omaha','Colorado Springs','Colorado Springs'
+,'Raleigh','Minneapolis','Tulsa','Tulsa','Wichita','Wichita','New Orleans','New Orleans','New Orleans','Arlington','Bakersfield','Aurora','Corpus Christi','Corpus Christi','Lexington','Lexington','Stockton','Stockton','Greensboro','Greensboro','Toledo','Toledo'
+,'Orlando','Orlando','Orlando','Durham','Durham','Norfolk','Reno','Reno','Richmond','Richmond','Rochester','Rochester','Boise','Baton Rouge','Birmingham','Spokane','Tacoma','Tacoma','Augusta','Akron']
 
 var nickname = ['Orioles','Red Sox','Yankees','Rays','Devil Rays','Blue Jays','White Sox','Indians','Tigers','Royals','Twins','Astros','Angels','Athletics','Mariners','Rangers','Braves','Marlins','Mets','Nationals','Cubs','Reds','Brewers','Pirates'
 ,'Cardinals','Diamondbacks','Rockies','Dodgers','Padres','Giants','Bisons','Bison','Knights','Clippers','Bulls','Bats','Tides','Red Wings','Chiefs','Mud Hens','Isotopes','Grizzlies','Redbirds','Aces','Express','River Cats','Bees','Rainiers','Senators'
@@ -16,7 +23,7 @@ var nickname = ['Orioles','Red Sox','Yankees','Rays','Devil Rays','Blue Jays','W
 ,'Bruins','Capitals','Rebels','Sharks','Bayhawks','Bay Hawks','Rampage','Avalanche','Bucks','Bulldogs','Galaxy','Atoms','Jets','Blue Sox','Eagles','Devils','Bandits','Gold Sox','Danger','Blazers','Aviators','Crusaders','Defenders','Destroyers','Firebirds'
 ,'Gladiators','Conquest','Miners','Jaguars','Outlaws','Patriots','Predators','Raiders','Trojans','Spartans','Saints','Sting','Islanders','Wizards','Scorpions','Brawlers','Stars','Titans','Revolution','Griffins','Owls','Badgers','Rivermen','Swarm','Blizzard'
 ,'Blues','Cowboys','Heros','Fire','Hitmen','Lancers','Night Hawks','Seahawks','Stampede','Wild','Hawks','Lightning','Monarchs','Vikings','Warriors','Wolves','Lakers','Packers','Whalers','Ravens','Moose','Attack','Rams','Octopus','Rockets'
-,'Colts','Acorns','Hurricanes','Pilots']
+,'Colts','Acorns','Hurricanes','Pilots','Dukes']
 
 function nameField() {
   var sponsorName = Math.floor(Math.random() * sponsor.length);
